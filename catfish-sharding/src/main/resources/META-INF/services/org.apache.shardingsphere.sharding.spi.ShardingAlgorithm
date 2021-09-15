@@ -1,0 +1,3 @@
+com.catfish.sharding.algorithm.OrderDbComplexShardingAlgorithm
+com.catfish.sharding.algorithm.OrderTableComplexShardingAlgorithm
+com.catfish.sharding.algorithm.OrderHintShardingAlgorithm
